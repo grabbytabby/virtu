@@ -17,6 +17,6 @@ To summarize, the MG8702, MG8725, and MT8733 support:
 VPN Pass-through (for clients connected behind the device that need to access for example a corporate network)
 mceclip0.png
 
+www.ecinetwork.com
 
-
-https.//ecin.ca/
+The past decade has seen explosive growth in development and training of artificial intelligence (AI) systems. However, as AI has taken on progressively more complex problems, the amount of computation required to train the largest AI systems has been increasing ten-fold annually. While AI advances are beginning to have a deep impact in digital computing processes, trade-offs between computational capability, resources and size, weight, and power consumption (SWaP) will become increasingly critical in the near future. More
